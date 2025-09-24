@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629371622541",
+    "project_id": "pictionnary-etna",
+    "storage_bucket": "pictionnary-etna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629371622541:android:9a12dc3dcce299aab5bec4",
+        "android_client_info": {
+          "package_name": "com.myetnapictionnary.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFBlNbS0QWJ5V0Fi7_O19IjRlwMrFvTA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
